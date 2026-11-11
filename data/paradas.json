@@ -1,0 +1,22 @@
+{
+  "P01": {"nome": "Terminal Central", "lat": -23.5505, "lon": -46.6333},
+  "P02": {"nome": "Av. Paulista", "lat": -23.5614, "lon": -46.6559},
+  "P03": {"nome": "Consolação", "lat": -23.5540, "lon": -46.6620},
+  "P04": {"nome": "República", "lat": -23.5440, "lon": -46.6420},
+  "P05": {"nome": "Sé", "lat": -23.5503, "lon": -46.6339},
+  "P06": {"nome": "Liberdade", "lat": -23.5580, "lon": -46.6350},
+  "P07": {"nome": "Paraíso", "lat": -23.5750, "lon": -46.6400},
+  "P08": {"nome": "Vila Mariana", "lat": -23.5890, "lon": -46.6340},
+  "P09": {"nome": "Ana Rosa", "lat": -23.5810, "lon": -46.6380},
+  "P10": {"nome": "Brigadeiro", "lat": -23.5680, "lon": -46.6480},
+  "P11": {"nome": "Pinheiros", "lat": -23.5670, "lon": -46.6820},
+  "P12": {"nome": "Faria Lima", "lat": -23.5750, "lon": -46.6920},
+  "P13": {"nome": "Butantã", "lat": -23.5720, "lon": -46.7080},
+  "P14": {"nome": "Sumaré", "lat": -23.5490, "lon": -46.6780},
+  "P15": {"nome": "Perdizes", "lat": -23.5350, "lon": -46.6720},
+  "P16": {"nome": "Barra Funda", "lat": -23.5250, "lon": -46.6650},
+  "P17": {"nome": "Santa Cecília", "lat": -23.5390, "lon": -46.6490},
+  "P18": {"nome": "Ipiranga", "lat": -23.5950, "lon": -46.6060},
+  "P19": {"nome": "Saúde", "lat": -23.6180, "lon": -46.6380},
+  "P20": {"nome": "Jabaquara", "lat": -23.6460, "lon": -46.6410}
+}

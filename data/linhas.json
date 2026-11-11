@@ -1,0 +1,32 @@
+{
+  "L1": {
+    "nome": "Terminal Central - Vila Mariana",
+    "paradas": ["P01", "P05", "P06", "P07", "P09", "P08"],
+    "tempo_entre_paradas_min": 6
+  },
+  "L2": {
+    "nome": "Paulista - Sé",
+    "paradas": ["P02", "P10", "P03", "P04", "P05"],
+    "tempo_entre_paradas_min": 5
+  },
+  "L3": {
+    "nome": "República - Ana Rosa",
+    "paradas": ["P04", "P05", "P06", "P09"],
+    "tempo_entre_paradas_min": 7
+  },
+  "L4": {
+    "nome": "Paulista - Paraíso",
+    "paradas": ["P02", "P10", "P07"],
+    "tempo_entre_paradas_min": 8
+  },
+  "L5": {
+    "nome": "Butantã - Barra Funda",
+    "paradas": ["P13", "P12", "P11", "P14", "P15", "P16"],
+    "tempo_entre_paradas_min": 7
+  },
+  "L6": {
+    "nome": "Ipiranga - Jabaquara",
+    "paradas": ["P18", "P19", "P20"],
+    "tempo_entre_paradas_min": 9
+  }
+}
